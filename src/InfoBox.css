@@ -1,0 +1,15 @@
+.InfoBox{
+    text-align: center;
+  
+   
+}
+.cardcontainer{
+    display:flex;
+    justify-content: center;
+ 
+}
+.CardContent{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
